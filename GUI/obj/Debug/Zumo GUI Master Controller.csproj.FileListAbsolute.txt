@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\obj\Debug\Zumo GUI Master Controller.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\obj\Debug\Zumo_GUI_Master_Controller.Form1.resources
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\obj\Debug\Zumo_GUI_Master_Controller.Properties.Resources.resources
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\obj\Debug\Zumo GUI Master Controller.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\bin\Debug\Zumo GUI Master Controller.exe.config
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\bin\Debug\Zumo GUI Master Controller.exe
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\bin\Debug\Zumo GUI Master Controller.pdb
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\obj\Debug\Zumo GUI Master Controller.exe
+C:\Users\user\source\repos\Zumo GUI\Zumo GUI Master Controller\Zumo GUI Master Controller\obj\Debug\Zumo GUI Master Controller.pdb
